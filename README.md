@@ -1,4 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on indulging my love of technology and computing
+
+🌱 I’m currently learning about all things AI
 
 <!--
 **blaggardo/blaggardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
